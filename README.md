@@ -1,8 +1,9 @@
-As an autodidact, this portfolio aims to showcase accumulated knowledge in personal and academic projects, learning notes and online courses taken.
-### Projects
+# An autodidact journey
 
-Project area with GitHub repositories and description.
+In addition to my training in a master *Big Data and Social Analysis* and a *Data Engineer* bootcamp, most of my skills come from self-teaching with online resources.
+## Projects
 
+Collection of personal and academic projects.
 ##### Data Engineering Projects
 - [Data engineering job market](https//github.com/FelitaD/job-market-batch)
 - [Machine Learning - Sentiment analysis](https//github.com/FelitaD/sentiment-analysis-notebook/blob/main/Reviews_Final.ipynb)
@@ -12,16 +13,24 @@ Project area with GitHub repositories and description.
 - [Excel automation](https//github.com/FelitaD/MEDAS-excel-automation)
 - [Statistics with R - Tobacco analysis](https//github.com/FelitaD/MEDAS-statistics-R)
 
-### Learning
+## Knowledge
 
-#### [Knowledge](https//github.com/FelitaD/Knowledge)
+Being mainly autodidact ()
+
+#### [Learning in public](https//github.com/FelitaD/Knowledge)
+
 
 #### Courses & Certificates
 
-Learning platform and link to course with certificate ✅ or just progress.
+Online courses with certificate ✅ 
+Online course completed at > 50%
 
 ##### APIs
 - [REST APIs with Flask and Python in 2023](https//www.udemy.com/course/rest-api-flask-and-python/) 38%
+
+##### Bash
+- [Introduction to Shell](https://app.datacamp.com/learn/courses/introduction-to-shell) ✅
+- [Introduction to Bash Scripting](https://app.datacamp.com/learn/courses/introduction-to-bash-scripting) ✅
 
 ##### Databases
 - [Databases Advanced Topics in SQL](https//learning.edx.org/course/course-v1StanfordOnline+SOE.YDB-ADVSQL0001+2T2020/home) ✅
@@ -53,7 +62,10 @@ Learning platform and link to course with certificate ✅ or just progress.
 - [The Complete Python/PostgreSQL Course 2.0](https//www.udemy.com/course/complete-python-postgresql-database-course/) 45%
 - [Automate the Boring Stuff with Python Programming](https//www.udemy.com/course/automate/) ✅
 - [The Ultimate Python Unit Testing Course](https//www.udemy.com/course/python-unit-testing/) 25%
-- [Data Analyst Python Track]
+- [Data Analyst with Python Track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=5) 80%
+
+##### R
+
 
 ##### Visualisation
 - [Tableau 2022 A-Z Hands-On Tableau Training for Data Science](https//www.udemy.com/course/tableau10/) ✅
