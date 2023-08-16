@@ -17,12 +17,12 @@ Collection of personal and academic projects.
 
 ### Learning in Public
 
-The [Learning in public](https//github.com/FelitaD/Knowledge) repository is a collection of studying notes (markdown, pdf, images). 
+The [Learning in public](https//github.com/FelitaD/Knowledge) repository is a collection of studying notes (markdown, pdf, images, jupyter notebooks). <br>
 It holds the content of my knowledge management tool [Obsidian](https://obsidian.md/) that can link markdown files and represent them in a graph.
 
 ### Online Courses & Certificates
 
-Exhaustive list of online courses enrolled in from platforms Coursera, edX, Datacamp and Udemy. 
+Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Datacamp and Udemy. <br>
 ✅ = certificate
 
 #### General
