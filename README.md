@@ -4,27 +4,33 @@ In addition to my training in a master *Big Data and Social Analysis* and a *Dat
 ## Projects
 
 Collection of personal and academic projects.
-##### Data Engineering Projects
+#### Data Engineering Projects
 - [Data engineering job market](https//github.com/FelitaD/job-market-batch)
 - [Machine Learning - Sentiment analysis](https//github.com/FelitaD/sentiment-analysis-notebook/blob/main/Reviews_Final.ipynb)
 - [API deployment - Docker and Kubernetes](https//github.com/FelitaD/sentiment-analysis)
 
-##### Data Science Projects
+#### Data Science Projects
 - [Excel automation](https//github.com/FelitaD/MEDAS-excel-automation)
 - [Statistics with R - Tobacco analysis](https//github.com/FelitaD/MEDAS-statistics-R)
 
 ## Knowledge
 
-Being mainly autodidact ()
+### Learning in Public
 
-#### [Learning in public](https//github.com/FelitaD/Knowledge)
+The [Learning in public](https//github.com/FelitaD/Knowledge) repository is a collection of studying notes (markdown, pdf, images). 
+It holds the content of my knowledge management tool [Obsidian](https://obsidian.md/) that can link markdown files and represent them in a graph.
 
+### Online Courses & Certificates
 
-#### Courses & Certificates
+Exhaustive list of online courses enrolled in from platforms Coursera, edX, Datacamp and Udemy. ✅ indicates a certificate
 
-Online courses with certificate ✅ 
-Online course completed at > 50%
+#### General
 
+[Data Engineering Academy](https://learndataengineering.com/p/academy) ✅
+[Data Engineer bootcamp](https://formation.datascientest.com/data-engineer-landing-page?loc_physical_ms=9040861&utm_term=data%20science%20bootcamps&utm_campaign=%5Bsearch%5D+data+scientist+(EN)&utm_source=adwords&utm_medium=ppc&hsa_acc=9618047041&hsa_cam=15903912889&hsa_grp=135297121907&hsa_ad=575249620956&hsa_src=g&hsa_tgt=kwd-335814959009&hsa_kw=data%20science%20bootcamps&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw5_GmBhBIEiwA5QSMxE0bXOjGwBWLHuhzO1Kxs_F8yrnc9BUGLjOz0GvnA63xdod-yQBVRhoCSREQAvD_BwE) ✅
+[Data Analyst with Python Track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=5) 80%
+
+#### Technology specific
 ##### APIs
 - [REST APIs with Flask and Python in 2023](https//www.udemy.com/course/rest-api-flask-and-python/) 38%
 
@@ -62,10 +68,6 @@ Online course completed at > 50%
 - [The Complete Python/PostgreSQL Course 2.0](https//www.udemy.com/course/complete-python-postgresql-database-course/) 45%
 - [Automate the Boring Stuff with Python Programming](https//www.udemy.com/course/automate/) ✅
 - [The Ultimate Python Unit Testing Course](https//www.udemy.com/course/python-unit-testing/) 25%
-- [Data Analyst with Python Track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=5) 80%
-
-##### R
-
 
 ##### Visualisation
 - [Tableau 2022 A-Z Hands-On Tableau Training for Data Science](https//www.udemy.com/course/tableau10/) ✅
