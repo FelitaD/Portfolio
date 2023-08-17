@@ -3,15 +3,25 @@
 In addition to my training in a master *Big Data and Social Analysis* and a *Data Engineer* bootcamp, most of my skills come from self-teaching with online resources.
 ## Projects
 
-Collection of personal and academic projects.
+Collection of personal, academic and work projects. Most relevant at the top.
 #### Data Engineering Projects
-- [Data engineering job market](https//github.com/FelitaD/job-market-batch)
-- [Machine Learning - Sentiment analysis](https//github.com/FelitaD/sentiment-analysis-notebook/blob/main/Reviews_Final.ipynb)
-- [API deployment - Docker and Kubernetes](https//github.com/FelitaD/sentiment-analysis)
 
+- [Data Engineering Job Market](https://github.com/FelitaD/job-market-batch): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
+- [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
+- [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
+- [Sentiment Analysis API Deployment](https://github.com/FelitaD/sentiment-analysis-api-deployment): machine learning model deployed in a REST API with Docker and Kubernetes
+- [Scraping Monitoring](https://github.com/FelitaD/scraping-monitoring): analyse scraping logs to detect anomalies
 #### Data Science Projects
-- [Excel automation](https//github.com/FelitaD/MEDAS-excel-automation)
-- [Statistics with R - Tobacco analysis](https//github.com/FelitaD/MEDAS-statistics-R)
+- [Scraping Diagnosis Automation](): data processing with Python to identify scraping issues
+- [R Tobacco Analysis](https://github.com/FelitaD/r-tobacco-analysis): statistics project in R with Shiny and time series
+- [Python Excel Automation](https://github.com/FelitaD/python-excel-automation): automation that aims to visualise logs in excel spreadsheet
+- [Python Geo Network](https://github.com/FelitaD/python-geo-network): group project with spatial data visualisation of shortest path
+- [Inequalities Visualisation](https://github.com/FelitaD/visualisation-inequalities): analysis of inequalities of income and health in Jupyter notebook
+
+#### Other Projects
+- [Neo4j Paris Subway](https://github.com/FelitaD/neo4j-paris-subway): find the shortest path between 2 subway stations
+- [Update Configuration Shell Automation](https://github.com/FelitaD/update-configuration-shell-automation/blob/main/update_conf_ini.sh): bash script to update a file's content on remote machine
+- [QGis Fracture Numérique](https://github.com/FelitaD/qgis-fracture-numerique): spatial analysis of internet access in France, data prepared with R and Python
 
 ## Knowledge
 
