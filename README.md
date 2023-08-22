@@ -6,7 +6,8 @@ In addition to my training in a master *Big Data and Social Analysis* and a *Dat
 Collection of personal, academic and work projects. Most relevant at the top.
 #### Data Engineering Projects
 
-- [Data Engineering Job Market](https://github.com/FelitaD/job-market-batch): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
+- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, Snowflake
+- [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
 - [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
 - [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
 - [Sentiment Analysis API Deployment](https://github.com/FelitaD/sentiment-analysis-api-deployment): machine learning model deployed in a REST API with Docker and Kubernetes
