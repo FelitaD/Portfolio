@@ -59,6 +59,11 @@ Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Dataca
 - [Creating PostgreSQL Databases](https://app.datacamp.com/learn/courses/creating-postgresql-databases) 50%
 - [The Complete Python/PostgreSQL Course 2.0](https//www.udemy.com/course/complete-python-postgresql-database-course/) 45%
 - [Database Design](https://app.datacamp.com/learn/courses/database-design) 25%
+
+##### dbt
+- [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) ✅
+- [Jinja, Macros, Packages](https://courses.getdbt.com/courses/jinja-macros-packages) 100%
+- [Analyses and Seeds](https://courses.getdbt.com/courses/analyses-seeds) 100%
 ##### Distributed Systems
 - [Complete Guide to Elasticsearch](https//www.udemy.com/course/elasticsearch-complete-guide/) 66%
 - [Cloud Computing Concepts - Part 1](https//www.coursera.org/learn/cloud-computing/home/week/1)  60%
