@@ -1,49 +1,36 @@
-# An autodidact journey
-
-In addition to my training in a master *Big Data and Social Analysis* and a *Data Engineer* bootcamp, most of my skills come from self-teaching with online resources.
+- [Projects](##projects)
+- [Online Education](##online-education)
 ## Projects
 
 Collection of personal, academic and work projects. Most relevant at the top.
-#### Data Engineering Projects
-
+#### 🦺 Data Engineering
 - [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, Snowflake
 - [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
 - [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
 - [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
 - [Sentiment Analysis API Deployment](https://github.com/FelitaD/sentiment-analysis-api-deployment): machine learning model deployed in a REST API with Docker and Kubernetes
 - [Scraping Monitoring](https://github.com/FelitaD/scraping-monitoring): analyse scraping logs to detect anomalies
-#### Data Science Projects
+####  🥼 Data Science
 - [Scraping Diagnosis Automation](): data processing with Python to identify scraping issues
 - [R Tobacco Analysis](https://github.com/FelitaD/r-tobacco-analysis): statistics project in R with Shiny and time series
-- [Python Excel Automation](https://github.com/FelitaD/python-excel-automation): automation that aims to visualise logs in excel spreadsheet
 - [Python Geo Network](https://github.com/FelitaD/python-geo-network): group project with spatial data visualisation of shortest path
 - [Inequalities Visualisation](https://github.com/FelitaD/visualisation-inequalities): analysis of inequalities of income and health in Jupyter notebook
 
-#### Other Projects
+####  🩱 Other
 - [Neo4j Paris Subway](https://github.com/FelitaD/neo4j-paris-subway): find the shortest path between 2 subway stations
 - [Update Configuration Shell Automation](https://github.com/FelitaD/update-configuration-shell-automation/blob/main/update_conf_ini.sh): bash script to update a file's content on remote machine
 - [QGis Fracture Numérique](https://github.com/FelitaD/qgis-fracture-numerique): spatial analysis of internet access in France, data prepared with R and Python
 
-## Knowledge
+## Online Education
 
-### Learning in Public
+#### 📚 General Courses
 
-The [Learning in public](https//github.com/FelitaD/Knowledge) repository is a collection of studying notes (markdown, pdf, images, jupyter notebooks). <br>
-It holds the content of my knowledge management tool [Obsidian](https://obsidian.md/) that can link markdown files and represent them in a graph.
-
-### Online Courses & Certificates
-
-Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Datacamp and Udemy. <br>
-✅ = certificate
-
-#### General
-
-- [Data Engineering Academy](https://learndataengineering.com/p/academy) ✅
+- [Data Engineering Academy](https://learndataengineering.com/p/academy) ✅ (certificate)
 - [Data Engineer bootcamp](https://formation.datascientest.com/data-engineer-landing-page?loc_physical_ms=9040861&utm_term=data%20science%20bootcamps&utm_campaign=%5Bsearch%5D+data+scientist+(EN)&utm_source=adwords&utm_medium=ppc&hsa_acc=9618047041&hsa_cam=15903912889&hsa_grp=135297121907&hsa_ad=575249620956&hsa_src=g&hsa_tgt=kwd-335814959009&hsa_kw=data%20science%20bootcamps&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw5_GmBhBIEiwA5QSMxE0bXOjGwBWLHuhzO1Kxs_F8yrnc9BUGLjOz0GvnA63xdod-yQBVRhoCSREQAvD_BwE) ✅
 - [Understanding Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering) ✅
 - [Data Analyst with Python Track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=5) 80%
 
-#### Technology specific
+#### 📘 Technology specific
 ##### APIs
 - [REST APIs with Flask and Python in 2023](https//www.udemy.com/course/rest-api-flask-and-python/) 38%
 ##### Bash
@@ -63,7 +50,7 @@ Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Dataca
 ##### dbt
 - [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) ✅
 - [Jinja, Macros, Packages](https://courses.getdbt.com/courses/jinja-macros-packages) 100%
-- [Analyses and Seeds](https://courses.getdbt.com/courses/analyses-seeds) 100%
+- [Analyses and Seeds](https://courses.getdbt.com/courses/analyses-seeds) 100% 
 ##### Distributed Systems
 - [Complete Guide to Elasticsearch](https//www.udemy.com/course/elasticsearch-complete-guide/) 66%
 - [Cloud Computing Concepts - Part 1](https//www.coursera.org/learn/cloud-computing/home/week/1)  60%
@@ -89,6 +76,11 @@ Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Dataca
 ##### R
 - [Intermediate R](https://app.datacamp.com/learn/courses/intermediate-r) 73%
 - [Introduction to Importing Data in R](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-r) 40%
+
+##### Snowflake
+
+- [[Key Concepts]] 100%
+
 ##### Visualisation
 - [Tableau 2022 A-Z Hands-On Tableau Training for Data Science](https//www.udemy.com/course/tableau10/) ✅
 - [Learn and Understand D3.js for Data Visualization](https//www.udemy.com/course/learn-d3js-for-data-visualization/) 40%
@@ -100,3 +92,8 @@ Exhaustive list of online courses enrolled in, mainly from Coursera, edX, Dataca
 ##### Web Scraping
 - [Modern Web Scraping with Python using Scrapy Splash Selenium](https//www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash/) 20%
 - [Advanced Web Scraping with Python using Scrapy & Splash](https//www.udemy.com/course/advanced-web-scraping-with-python-using-scrapy-splash/) 15%
+
+####  📝 Learning in Public
+
+The [Learning in public](https//github.com/FelitaD/Knowledge) repository is a collection of studying notes (markdown, pdf, images, jupyter notebooks). <br>
+It holds the content of my knowledge management tool [Obsidian](https://obsidian.md/) that can link markdown files and represent them in a graph.
