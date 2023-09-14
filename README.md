@@ -2,9 +2,9 @@
 - [Online Education](##online-education)
 ## Projects
 
-Collection of personal, academic and work projects. Most relevant at the top.
+Collection of personal, academic and work projects.
 #### 🦺 Data Engineering
-- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, Snowflake
+- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, Snowflake, Prefect
 - [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
 - [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
 - [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
@@ -79,7 +79,12 @@ Collection of personal, academic and work projects. Most relevant at the top.
 
 ##### Snowflake
 
-- [[Key Concepts]] 100%
+- Key Concepts 100%
+- Query History & Caching 100%
+
+##### SSH
+
+- [Secure Shell essentials hands-on](https://www.udemy.com/course/master-linux-administration-using-ssh/) ✅
 
 ##### Visualisation
 - [Tableau 2022 A-Z Hands-On Tableau Training for Data Science](https//www.udemy.com/course/tableau10/) ✅
