@@ -1,10 +1,22 @@
-- [Projects](##projects)
-- [Online Education](##online-education)
+<h1 align="center">
+    Portfolio
+</h1>
+
+<p align="center">
+    <strong> 👩‍💻 Data enthousiast and autodidact 🦉️</strong>
+</p>
+
+<p align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/felita--donor-blue?logo=linkedin">
+</p>
+
+- [Projects](#projects)
+- [Online Education](#online-education)
 ## Projects
 
 Collection of personal, academic and work projects.
 #### 🦺 Data Engineering
-- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, Snowflake, Prefect
+- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, BigQuery, Prefect
 - [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
 - [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
 - [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
