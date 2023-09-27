@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/felita--donor-blue?logo=linkedin">
+    <a href="https://www.linkedin.com/in/felita-donor/"><img alt="Static Badge" src="https://img.shields.io/badge/felita--donor-blue?logo=linkedin"></a>
 </p>
 
 - [Projects](#projects)
