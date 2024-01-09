@@ -1,39 +1,67 @@
 <h1 align="center">
-    Portfolio
+    Felita Donor - Portfolio
 </h1>
-
-<p align="center">
-    <strong> 👩‍💻 Data enthousiast and autodidact 🦉️</strong>
-</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/felita-donor/"><img alt="Static Badge" src="https://img.shields.io/badge/felita--donor-blue?logo=linkedin"></a>
 </p>
 
 - [Projects](#projects)
-- [Online Education](#online-education)
+  - [Data Engineering](#-data-engineering)
+  - [Cloud Engineering](#-cloud-engineering)
+  - [Data Science](#-data-science)
+- [Education](#education)
+
 ## Projects
 
-Collection of personal, academic and work projects.
 #### 🦺 Data Engineering
-- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0): rebuild and improve job radar 1.0 with dbt, BigQuery, Prefect
-- [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0): ingest, process, analyse and recommend new data engineer jobs using Python, PostgreSQL and Airflow
-- [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming): streaming on AWS with Kinesis, Lambda and DynamoDB
-- [Document Streaming](https://github.com/FelitaD/document-streaming): streaming on premise with Kafka, Spark, MongoDB and Streamlit
-- [Sentiment Analysis API Deployment](https://github.com/FelitaD/sentiment-analysis-api-deployment): machine learning model deployed in a REST API with Docker and Kubernetes
-- [Scraping Monitoring](https://github.com/FelitaD/scraping-monitoring): analyse scraping logs to detect anomalies
+- [Job Radar 2.0](https://github.com/FelitaD/job-radar-2.0)<br> 
+  Extract and analyse job market information.<br>
+  **Python, dbt, Snowflake/BigQuery, Prefect, Streamlit.**
+- [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0)<br>
+  Ingest, process, analyse and recommend new data engineer jobs.<br>
+  **Python, PostgreSQL, Airflow, Tableau, Jupyter.**
+- [AWS E-commerce Streaming](https://github.com/FelitaD/aws-ecommerce-streaming)<br>
+  Simulate the cloud-based infrastructure of an e-commerce company.<br>
+  **AWS, Kinesis, Lambda, DynamoDB.**
+- [Document Streaming](https://github.com/FelitaD/document-streaming)<br> 
+  Streaming pipeline on premise.<br> 
+  **Kafka, Spark, MongoDB, Streamlit.**
+- [Sentiment Analysis API Deployment](https://github.com/FelitaD/sentiment-analysis-api-deployment)<br> 
+  REST API containing Machine Learning model.<br>
+  **Python, Docker, Kubernetes.**
+- [Scraping Monitoring](https://github.com/FelitaD/scraping-monitoring)<br> 
+  Monitoring tool for log analysis.<br>
+  **Python, Bash, S3.**
+
+#### ☁️ Cloud Engineering
+- [GCP Cloud Resume](https://felitadonor.com/resume.html)<br> 
+  Online resume hosted on Google Cloud Platform with a visitor count.<br>
+  **Cloud Storage, Cloud Load Balancer, Cloud DNS, HTML, CSS, Javascript.** ([Frontend](https://github.com/FelitaD/resume-frontend)) <br>
+  **Cloud Run, Cloud Build, Cloud Endpoints, Firestore.** ([Backend](https://github.com/FelitaD/resume-backend))<br> 
+  **Terraform**.
+- [Update Configuration Shell Automation](https://github.com/FelitaD/update-configuration-shell-automation/blob/main/update_conf_ini.sh)<br> 
+  Bash script to update a file's content on remote machine.<br>
+  **Shell scripting**.
+
 ####  🥼 Data Science
-- [Scraping Diagnosis Automation](): data processing with Python to identify scraping issues
-- [R Tobacco Analysis](https://github.com/FelitaD/r-tobacco-analysis): statistics project in R with Shiny and time series
-- [Python Geo Network](https://github.com/FelitaD/python-geo-network): group project with spatial data visualisation of shortest path
-- [Inequalities Visualisation](https://github.com/FelitaD/visualisation-inequalities): analysis of inequalities of income and health in Jupyter notebook
+- [Scraping Diagnosis Automation](https://github.com/FelitaD/scraping-monitoring)<br>
+  Data processing of web scraping logs for analysis in Google Sheets.<br>
+  **Python, S3, Bash, Google Sheets.**
+- [R Tobacco Analysis](https://github.com/FelitaD/r-tobacco-analysis)<br> 
+  Shiny app that uses time series statistical models to predict tobacco issues.<br>
+  **R.**
+- [Inequalities Visualisation](https://github.com/FelitaD/visualisation-inequalities/blob/main/visualisation-inequalities.ipynb)<br> 
+  Data visualisation of health inequalities.<br>
+  **Python, Jupyter.**
+- [Neo4j Paris Subway](https://github.com/FelitaD/neo4j-paris-subway)<br> 
+  Find the shortest path between 2 subway stations.<br>
+  **Neo4j.**
+- [QGis Fracture Numérique](https://github.com/FelitaD/qgis-fracture-numerique)<br>
+  Spatial analysis of internet access in relation to political votes in France.<br>
+  **Python, R, QGis.**
 
-####  🩱 Other
-- [Neo4j Paris Subway](https://github.com/FelitaD/neo4j-paris-subway): find the shortest path between 2 subway stations
-- [Update Configuration Shell Automation](https://github.com/FelitaD/update-configuration-shell-automation/blob/main/update_conf_ini.sh): bash script to update a file's content on remote machine
-- [QGis Fracture Numérique](https://github.com/FelitaD/qgis-fracture-numerique): spatial analysis of internet access in France, data prepared with R and Python
-
-## Online Education
+## Education
 
 #### 📚 General Courses
 
@@ -85,6 +113,8 @@ Collection of personal, academic and work projects.
 ##### Python
 - [Automate the Boring Stuff with Python Programming](https//www.udemy.com/course/automate/) ✅
 - [The Ultimate Python Unit Testing Course](https//www.udemy.com/course/python-unit-testing/) 25%
+- [Data Structures and Algorithms in Python](https://www.datacamp.com/statement-of-accomplishment/course/f395013a940f318a3cd44abf67885e9dc49fdd38?raw=1) ✅
+
 ##### R
 - [Intermediate R](https://app.datacamp.com/learn/courses/intermediate-r) 73%
 - [Introduction to Importing Data in R](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-r) 40%
